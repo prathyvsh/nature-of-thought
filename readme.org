@@ -35,19 +35,19 @@ How reason which could be irrational in the local, becomes a fine tuned thing in
 <img src="img/phantoms-in-the-brain.jpg" alt="Cover of Phantoms in the Brain" width="400px" />
 #+END_HTML
 
-*** [[Models of Mind]]
+*** [[https://amzn.to/3H80m2e][Models of the Mind]]
 
 #+BEGIN_HTML
-<img src="img/models-of-mind.jpg" alt="Cover of Models of Mind" width="400px" />
+<img src="img/models-of-the-mind.jpg" alt="Cover of Models of Mind" width="400px" />
 #+END_HTML
 
-*** [[The Society of Mind]]
+*** [[https://amzn.to/3JxvcEr][The Society of Mind]]
 
 #+BEGIN_HTML
 <img src="img/the-society-of-mind.jpg" alt="Cover of The Society of Mind" width="400px" />
 #+END_HTML
 
-*** [[Minimal Rationality]]
+*** [[https://amzn.to/3WIMVvb][Minimal Rationality]]
 
 #+BEGIN_HTML
 <img src="img/minimal-rationality.jpg" alt="Cover of Minimal Rationality" width="400px" />
