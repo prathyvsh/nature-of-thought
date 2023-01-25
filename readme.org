@@ -15,13 +15,19 @@ Catalogue on the nature and bounds of thought
 <a href="https://amzn.to/3WEgDl5"><img src="img/enigma-of-reason.jpg" alt="Cover of Enigma of Reason" width="400px" /></a>
 #+END_HTML
 
-How reason which could be irrational in the local, becomes a fine tuned thing in the global
+Hugo Mercier, Dan Spencer (2017)
+
+How reason which could be unreliable when employed solitarily in the local, becomes a fine tuned reliable compass through collective interaction in the global.
 
 *** [[https://amzn.to/3XIOuuz][What is Thought?]]
+
+Eric Baum (2004)
 
 #+BEGIN_HTML
 <a href="https://amzn.to/3XIOuuz"><img src="img/what-is-thought.jpg" alt="Cover of What is Thought?" width="400px" /></a>
 #+END_HTML
+
+Structured after What is Life? by Erwin Schrödinger, this book gives a computational explanation of the human mind. The author is optimistic that even though there hasn’t been an adequate explanation yet, computation is identified to be the correct framework to provide an explanation of working of human mind.
 
 *** [[https://amzn.to/3HwGYgD][Descartes Error]]
 
