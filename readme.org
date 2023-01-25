@@ -1,66 +1,127 @@
 * Nature of Thought
 Catalogue on the nature and bounds of thought
 
+#+BEGIN_HTML
+
+<img src="img/cover.png" width="1200px" />
+
+#+END_HTML
+
 ** Neuroscience adjacent
 
-Enigma of Reason – How reason which could be irrational in the local, becomes a fine tuned thing in the global
-Descartes Error
-Phantoms in the Brain
-What is Thought?
-Models of Mind
-Conscious Mind Resonant Brain
-Entangled Brain
-The Society of Mind
-The Emotional Brain
-Minimal Rationality
-The Symbolic Species
-Incomplete Nature
-Life in Mind
-Dynamics in Action: Intensional Behaviour as a Complex System
+*** [[https://amzn.to/3WEgDl5][Enigma of Reason]]
+
+#+BEGIN_HTML
+<img src="img/enigma-of-reason.jpg" alt="Cover of Enigma of Reason" width="400px" />
+#+END_HTML
+
+How reason which could be irrational in the local, becomes a fine tuned thing in the global
+
+*** [[https://amzn.to/3XIOuuz][What is Thought?]]
+
+#+BEGIN_HTML
+<img src="img/enigma-of-reason.jpg" alt="Cover of What is Thought?" width="400px" />
+#+END_HTML
+
+*** [[][Descartes Error]]
+
+#+BEGIN_HTML
+<img src="img/enigma-of-reason.jpg" alt="Cover of Descartes Error" width="400px" />
+#+END_HTML
+
+*** [[Phantoms in the Brain]]
+
+#+BEGIN_HTML
+<img src="img/enigma-of-reason.jpg" alt="Cover of Phantoms in the Brain" width="400px" />
+#+END_HTML
+
+*** [[Models of Mind]]
+
+#+BEGIN_HTML
+<img src="img/enigma-of-reason.jpg" alt="Cover of Models of Mind" width="400px" />
+#+END_HTML
+
+*** [[The Society of Mind]]
+
+#+BEGIN_HTML
+<img src="img/enigma-of-reason.jpg" alt="Cover of The Society of Mind" width="400px" />
+#+END_HTML
+
+*** [[Minimal Rationality]]
+
+#+BEGIN_HTML
+<img src="img/enigma-of-reason.jpg" alt="Cover of Minimal Rationality" width="400px" />
+#+END_HTML
+
+*** The Emotional Brain
+
+*** The Symbolic Species
+*** Incomplete Nature
+
+*** Dynamics in Action: Intensional Behaviour as a Complex System
+*** Conscious Mind Resonant Brain
+*** Life in Mind
+*** Entangled Brain
 
 ** Knowledge adjacent
 
-The Knowledge Machine
-System: The Shaping of Modern Knowledge
-The Educated Mind
+*** The Knowledge Machine
+*** System: The Shaping of Modern Knowledge
+*** The Educated Mind
 
 ** Limits of knowledge
 
-The Outer Limits of Reason
-What we Cannot Know
-Computation and its Limits
+*** The Outer Limits of Reason
+*** What we Cannot Know
+*** Computation and its Limits
 
 ** Behavioral economics adjacent
 
-Predictably irrational
-Gut Feelings
-The Book of Why
-AI and Zombies
+*** Predictably irrational
+*** Thinking fast and slow
+*** Gut Feelings
+*** The Book of Why
+*** AI and Zombies
 
 ** Math adjacent
 
-Calculus of Ideas
-Geometry and Meaning
-Laws of Thought
+*** Calculus of Ideas
+*** Geometry and Meaning
+*** Laws of Thought
 
 ** Design adjacent
 
-Cognition in the Wild
+*** Cognition in the Wild
 
 ** Biology adjacent
 
-Other Minds
+*** Other Minds
+*** Are We Smart Enough to Know How Smart Animals Are?
 
 ** Papers
 
-Cognition = Life (Stewart): https://www.sciencedirect.com/science/article/abs/pii/0376635795000461
-Intelligence without Reason (Brooks)
-Computational Complexity for Philosophers
-Newell and Simon
-Minimal Rationality: https://terpconnect.umd.edu/~cherniak/Mind_81.pdf
-Rationality and the structure of human memory: https://terpconnect.umd.edu/~cherniak/Synth_83.pdf
-Limits for Knowledge: https://terpconnect.umd.edu/~cherniak/PhilStd_86.pdf
-Computational Complexity and the Universal Acceptance of Logic: https://terpconnect.umd.edu/~cherniak/JP_84.pdf
-Autopoesis and Cognition: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a185ee72dca8be938838bbfc376954b59db92374
-Life and Mind: https://evanthompsondotme.files.wordpress.com/2012/11/pcs-life-and-mind.pdf
-A Unified Theory of Conscious Seeing, Hearing, Feeling, and Knowing: https://sites.bu.edu/steveg/files/2021/01/grossberg_in_press_cogn_neurosci-final-1-7-21.pdf
+*** [[https://www.sciencedirect.com/science/article/abs/pii/0376635795000461][Cognition = Life]]
+John Stewart
+
+*** [[Intelligence without Reason]]
+Brooks
+
+*** Computational Complexity for Philosophers
+Scott Aaronson
+
+*** Newell and Simon
+
+*** [[https://terpconnect.umd.edu/~cherniak/Mind_81.pdf][Minimal Rationality]]
+Cherniak
+
+*** [[https://terpconnect.umd.edu/~cherniak/Synth_83.pdf][Rationality and the structure of human memory]]
+
+*** [[https://terpconnect.umd.edu/~cherniak/PhilStd_86.pdf][Limits for Knowledge]]
+
+*** [[https://terpconnect.umd.edu/~cherniak/JP_84.pdf][Computational Complexity and the Universal Acceptance of Logic]]
+
+*** [[https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a185ee72dca8be938838bbfc376954b59db92374][Autopoesis and Cognition]]
+
+*** [[https://evanthompsondotme.files.wordpress.com/2012/11/pcs-life-and-mind.pdf][Life and Mind]]
+
+*** [[https://sites.bu.edu/steveg/files/2021/01/grossberg_in_press_cogn_neurosci-final-1-7-21.pdf][A Unified Theory of Conscious Seeing, Hearing, Feeling, and Knowing]]
