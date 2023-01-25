@@ -20,37 +20,37 @@ How reason which could be irrational in the local, becomes a fine tuned thing in
 *** [[https://amzn.to/3XIOuuz][What is Thought?]]
 
 #+BEGIN_HTML
-<img src="img/enigma-of-reason.jpg" alt="Cover of What is Thought?" width="400px" />
+<img src="img/what-is-thought.jpg" alt="Cover of What is Thought?" width="400px" />
 #+END_HTML
 
-*** [[][Descartes Error]]
+*** [[https://amzn.to/3HwGYgD][Descartes Error]]
 
 #+BEGIN_HTML
-<img src="img/enigma-of-reason.jpg" alt="Cover of Descartes Error" width="400px" />
+<img src="img/descartes-error.jpg" alt="Cover of Descartes’ Error" width="400px" />
 #+END_HTML
 
-*** [[Phantoms in the Brain]]
+*** [[https://amzn.to/3DbeiHl][Phantoms in the Brain]]
 
 #+BEGIN_HTML
-<img src="img/enigma-of-reason.jpg" alt="Cover of Phantoms in the Brain" width="400px" />
+<img src="img/phantoms-in-the-brain.jpg" alt="Cover of Phantoms in the Brain" width="400px" />
 #+END_HTML
 
 *** [[Models of Mind]]
 
 #+BEGIN_HTML
-<img src="img/enigma-of-reason.jpg" alt="Cover of Models of Mind" width="400px" />
+<img src="img/models-of-mind.jpg" alt="Cover of Models of Mind" width="400px" />
 #+END_HTML
 
 *** [[The Society of Mind]]
 
 #+BEGIN_HTML
-<img src="img/enigma-of-reason.jpg" alt="Cover of The Society of Mind" width="400px" />
+<img src="img/the-society-of-mind.jpg" alt="Cover of The Society of Mind" width="400px" />
 #+END_HTML
 
 *** [[Minimal Rationality]]
 
 #+BEGIN_HTML
-<img src="img/enigma-of-reason.jpg" alt="Cover of Minimal Rationality" width="400px" />
+<img src="img/minimal-rationality.jpg" alt="Cover of Minimal Rationality" width="400px" />
 #+END_HTML
 
 *** The Emotional Brain
