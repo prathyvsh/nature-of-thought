@@ -1,2 +1,66 @@
 * Nature of Thought
 Catalogue on the nature and bounds of thought
+
+** Neuroscience adjacent
+
+Enigma of Reason – How reason which could be irrational in the local, becomes a fine tuned thing in the global
+Descartes Error
+Phantoms in the Brain
+What is Thought?
+Models of Mind
+Conscious Mind Resonant Brain
+Entangled Brain
+The Society of Mind
+The Emotional Brain
+Minimal Rationality
+The Symbolic Species
+Incomplete Nature
+Life in Mind
+Dynamics in Action: Intensional Behaviour as a Complex System
+
+** Knowledge adjacent
+
+The Knowledge Machine
+System: The Shaping of Modern Knowledge
+The Educated Mind
+
+** Limits of knowledge
+
+The Outer Limits of Reason
+What we Cannot Know
+Computation and its Limits
+
+** Behavioral economics adjacent
+
+Predictably irrational
+Gut Feelings
+The Book of Why
+AI and Zombies
+
+** Math adjacent
+
+Calculus of Ideas
+Geometry and Meaning
+Laws of Thought
+
+** Design adjacent
+
+Cognition in the Wild
+
+** Biology adjacent
+
+Other Minds
+
+** Papers
+
+Cognition = Life (Stewart): https://www.sciencedirect.com/science/article/abs/pii/0376635795000461
+Intelligence without Reason (Brooks)
+Computational Complexity for Philosophers
+Newell and Simon
+Minimal Rationality: https://terpconnect.umd.edu/~cherniak/Mind_81.pdf
+Rationality and the structure of human memory: https://terpconnect.umd.edu/~cherniak/Synth_83.pdf
+Limits for Knowledge: https://terpconnect.umd.edu/~cherniak/PhilStd_86.pdf
+Computational Complexity and the Universal Acceptance of Logic: https://terpconnect.umd.edu/~cherniak/JP_84.pdf
+Autopoesis and Cognition: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a185ee72dca8be938838bbfc376954b59db92374
+Life and Mind: https://evanthompsondotme.files.wordpress.com/2012/11/pcs-life-and-mind.pdf
+A Unified Theory of Conscious Seeing, Hearing, Feeling, and Knowing: https://sites.bu.edu/steveg/files/2021/01/grossberg_in_press_cogn_neurosci-final-1-7-21.pdf
