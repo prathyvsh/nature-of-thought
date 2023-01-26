@@ -79,13 +79,25 @@ Michael Strevens (2020)
 #+END_HTML
 
 
-*** System: The Shaping of Modern Knowledge
+*** [[https://amzn.to/3j6qFOl][System: The Shaping of Modern Knowledge]]
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3j6qFOl"><img src="img/system.jpg" alt="Cover of System" width="400px" /></a>
+#+END_HTML
+
 *** The Educated Mind
 
 ** Limits of knowledge
 
-*** The Outer Limits of Reason
+*** [[https://amzn.to/3EU3Wdu][The Outer Limits of Reason]]
+Noson Yanofsky (2013)
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3EU3Wdu"><img src="img/the-outer-limits-of-reason.jpg" alt="Cover of The Outer Limits of Reason" width="400px" /></a>
+#+END_HTML
+
 *** What we Cannot Know
+
 *** Computation and its Limits
 
 ** Behavioral economics adjacent
