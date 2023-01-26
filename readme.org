@@ -71,7 +71,14 @@ Structured after What is Life? by Erwin Schrödinger, this book gives a computat
 
 ** Knowledge adjacent
 
-*** The Knowledge Machine
+*** [[https://amzn.to/3Wz8crm][The Knowledge Machine]]
+Michael Strevens (2020)
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3Wz8crm"><img src="img/the-knowledge-machine.jpg" alt="Cover of Minimal Rationality" width="400px" /></a>
+#+END_HTML
+
+
 *** System: The Shaping of Modern Knowledge
 *** The Educated Mind
 
