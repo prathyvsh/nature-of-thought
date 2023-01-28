@@ -100,7 +100,9 @@ Noson Yanofsky (2013)
 
 Marcus du Sautoy (2016)
 
+#+BEGIN_HTML
 <a href="https://amzn.to/3HagMap"><img src="img/what-we-cannot-know.jpg" alt="Cover of What We Cannot Know"></a>
+#+END_HTML
 
 *** Computation and its Limits
 
