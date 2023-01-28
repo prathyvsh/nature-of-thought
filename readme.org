@@ -101,7 +101,7 @@ Noson Yanofsky (2013)
 Marcus du Sautoy (2016)
 
 #+BEGIN_HTML
-<a href="https://amzn.to/3HagMap"><img src="img/what-we-cannot-know.jpg" alt="Cover of What We Cannot Know"></a>
+<a href="https://amzn.to/3HagMap"><img src="img/what-we-cannot-know.jpg" alt="Cover of What We Cannot Know" width="400px"></a>
 #+END_HTML
 
 *** Computation and its Limits
@@ -109,7 +109,7 @@ Marcus du Sautoy (2016)
 Paul Cockshott, Lewis Mackenzie, Greg Michaelson (2012)
 
 #+BEGIN_HTML
-<a href="https://amzn.to/3Y9mVul"><img src="img/computation-and-its-limits.jpg" alt="Cover of Computation and its limits"></a>
+<a href="https://amzn.to/3Y9mVul"><img src="img/computation-and-its-limits.jpg" alt="Cover of Computation and its limits" width="400px"></a>
 #+END_HTML
 
 ** Behavioral economics adjacent
