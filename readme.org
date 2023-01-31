@@ -59,10 +59,26 @@ Structured after What is Life? by Erwin Schrödinger, this book gives a computat
 <a href="https://amzn.to/3WIMVvb"><img src="img/minimal-rationality.jpg" alt="Cover of Minimal Rationality" width="400px" /></a>
 #+END_HTML
 
-*** The Emotional Brain
+*** [[https://amzn.to/3wLBdp6][The Emotional Brain]]
+Joseph Ledoux (1986)
 
-*** The Symbolic Species
-*** Incomplete Nature
+#+BEGIN_HTML
+<a href="https://amzn.to/3wLBdp6"><img src="img/the-emotional-brain.gif" alt="Cover of The Emotional Brain" width="400px" /></a>
+#+END_HTML
+
+*** [[https://amzn.to/3XTLZ8I][The Symbolic Species]]
+Terrence Deacon (1997)
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3XTLZ8I"><img src="img/the-symbolic-species.jpg" alt="Cover of The Symbolic Species" width="400px" /></a>
+#+END_HTML
+
+*** [[https://amzn.to/3DsRymx][Incomplete Nature]]
+Terrence Deacon (2011)
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3DsRymx"><img src="img/incomplete-nature.jpg" alt="Cover of Incomplete Nature" width="400px" /></a>
+#+END_HTML
 
 *** Dynamics in Action: Intensional Behaviour as a Complex System
 *** Conscious Mind Resonant Brain
@@ -130,8 +146,8 @@ Ulf Grenander (2012)
 <a href="https://amzn.to/3JqVmbB"><img src="img/calculus-of-ideas.jpg" alt="Cover of Calculus of Ideas" width="400px"></a>
 #+END_HTML
 
-
 *** Geometry and Meaning
+
 *** Laws of Thought
 
 ** Design adjacent
