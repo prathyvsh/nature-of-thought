@@ -150,7 +150,7 @@ Ulf Grenander (2012)
 Dominic Widdows (2004)
 
 #+BEGIN_HTML
-<a href="https://amzn.to/3HqaZxh"><img src="img/geometry-and-meaning.jpg" alt="Cover of Calculus of Ideas" width="400px"></a>
+<a href="https://amzn.to/3HqaZxh"><img src="img/geometry-and-meaning.jpg" alt="Cover of Geometry and Meaning" width="400px"></a>
 #+END_HTML
 
 *** Laws of Thought
