@@ -146,7 +146,12 @@ Ulf Grenander (2012)
 <a href="https://amzn.to/3JqVmbB"><img src="img/a-calculus-of-ideas.jpg" alt="Cover of Calculus of Ideas" width="400px"></a>
 #+END_HTML
 
-*** Geometry and Meaning
+*** [[https://amzn.to/3HqaZxh][Geometry and Meaning]]
+Dominic Widdows (2004)
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3HqaZxh"><img src="img/geometry-and-meaning.jpg" alt="Cover of Calculus of Ideas" width="400px"></a>
+#+END_HTML
 
 *** Laws of Thought
 
