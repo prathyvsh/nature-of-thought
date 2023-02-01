@@ -153,7 +153,12 @@ Dominic Widdows (2004)
 <a href="https://amzn.to/3HqaZxh"><img src="img/geometry-and-meaning.jpg" alt="Cover of Geometry and Meaning" width="400px"></a>
 #+END_HTML
 
-*** Laws of Thought
+*** [[https://archive.org/details/investigationofl01bool][An Investigation into Laws of Thought]]
+George Boole (1854)
+
+#+BEGIN_HTML
+<a href="https://archive.org/details/investigationofl01bool"><img src="laws-of-thought.png" alt="Cover of Investigation into Laws of Thought" width="400px"></a>
+#+END_HTML
 
 ** Design adjacent
 
