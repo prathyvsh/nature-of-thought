@@ -171,7 +171,13 @@ George Boole (1854)
 ** Biology adjacent
 
 *** Other Minds
-*** Are We Smart Enough to Know How Smart Animals Are?
+
+*** [[https://amzn.to/3HvNZgI][Are We Smart Enough to Know How Smart Animals Are?]]
+Frans de Waal (2016)
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3HvNZgI"><img src="img/are-we-smart-enough-to-know-how-smart-animals-are.jpg" alt="Cover of Are We Smart Enough to Know How Smart Animals Are?" width="400px"></a>
+#+END_HTML
 
 ** Papers
 
