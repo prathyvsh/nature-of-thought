@@ -170,7 +170,13 @@ George Boole (1854)
 
 ** Biology adjacent
 
-*** Other Minds
+*** [[https://amzn.to/3HI5kTM][Other Minds]]
+Peter Godfrey-Smith (2016)
+
+#+BEGIN_HTML
+<a href="https://amzn.to/3HI5kTM"><img src="img/other-minds.jpg" alt="Cover of Other Minds" width="400px"/>
+#+END_HTML
+
 
 *** [[https://amzn.to/3HvNZgI][Are We Smart Enough to Know How Smart Animals Are?]]
 Frans de Waal (2016)
